@@ -81,7 +81,7 @@ The application follows a three-tier architecture with clear separation of conce
 
 1. **Clone the repository**
 
-   git clone https://github.com/yourusername/ai-code-education-platform.git
+   git clone https://github.com/olajaido/ai-code-education-platform.git
    cd ai-code-education-platform
    
 
