@@ -82,25 +82,28 @@ The application follows a three-tier architecture with clear separation of conce
 1. **Clone the repository**
 
    git clone https://github.com/olajaido/ai-code-education-platform.git
-   
+
    cd ai-code-education-platform
    
 
 2. **Set up the client**
    
    cd client
+
    npm install
    
 
 3. **Set up the API**
 
    cd ../api
+
    npm install
    
 
 4. **Set up Azure Functions**
    
    cd ../functions
+
    npm install
    
 
@@ -111,14 +114,17 @@ The application follows a three-tier architecture with clear separation of conce
    
    # Terminal 1 (API)
    cd api
+
    npm start
 
    # Terminal 2 (Client)
    cd client
+
    npm start
 
    # Terminal 3 (Functions)
    cd functions
+   
    func start
 
 
